@@ -19,7 +19,7 @@ else {
     Console.WriteLine($"Нет третьей цифры");
 }
 
-dddd
+ddddjjjj
 
 
 
