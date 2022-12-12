@@ -1,0 +1,15 @@
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/bin/Debug/net6.0/Task15
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/bin/Debug/net6.0/Task15.dll
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.dll
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task15/obj/Debug/net6.0/ref/Task15.dll
