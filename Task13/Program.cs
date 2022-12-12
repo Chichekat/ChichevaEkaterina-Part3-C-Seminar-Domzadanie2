@@ -18,8 +18,3 @@ if (num >= 1000)
 else {
     Console.WriteLine($"Нет третьей цифры");
 }
-
-ddddjjjj
-
-
-
