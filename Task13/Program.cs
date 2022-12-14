@@ -3,18 +3,14 @@
 
 Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine());
-if (num > 100 && num < 1000)
-{
-    num = num % 10;
-    Console.WriteLine($"Трехзначное {num}");
-    return;
-}
-if (num >= 1000)
-{
-    num = num % 100;
-    num = num / 10;
-    Console.WriteLine($"Четырехзначное {num}");
-}
-else {
-    Console.WriteLine($"Нет третьей цифры");
-}
+if (num < 100)
+    {
+        Console.WriteLine($"Нет третьей цифры: {num}");
+    }
+    else 
+        {
+            while (num > 1000){
+              num /= 10;  
+            }
+            Console.WriteLine($"{num % 10}");
+        }

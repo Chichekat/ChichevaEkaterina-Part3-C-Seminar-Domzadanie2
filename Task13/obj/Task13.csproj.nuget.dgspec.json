@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task13/Task13.csproj": {}
+    "/Users/chichev/Desktop/Education gb/Part 3 C#/Lesson 2 seminar 1 + dom zadanie/Domashka/Task13/Task13.csproj": {}
   },
   "projects": {
-    "/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task13/Task13.csproj": {
+    "/Users/chichev/Desktop/Education gb/Part 3 C#/Lesson 2 seminar 1 + dom zadanie/Domashka/Task13/Task13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task13/Task13.csproj",
+        "projectUniqueName": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lesson 2 seminar 1 + dom zadanie/Domashka/Task13/Task13.csproj",
         "projectName": "Task13",
-        "projectPath": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task13/Task13.csproj",
+        "projectPath": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lesson 2 seminar 1 + dom zadanie/Domashka/Task13/Task13.csproj",
         "packagesPath": "/Users/chichev/.nuget/packages/",
-        "outputPath": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lession 2 seminar + dom zadanie/Domashka/Task13/obj/",
+        "outputPath": "/Users/chichev/Desktop/Education gb/Part 3 C#/Lesson 2 seminar 1 + dom zadanie/Domashka/Task13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chichev/.nuget/NuGet/NuGet.Config"
